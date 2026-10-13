@@ -1,2 +1,0 @@
-# Fatima-Noor
-NAVTTC Tasks 

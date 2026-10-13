@@ -1,0 +1,17 @@
+# Task 01: Software Installation
+
+## Objective
+To set up the software environment required for AI and Machine Learning development.
+
+## Software Requirements
+1. Anaconda Distribution
+2. PyTorch
+3. TensorFlow 2.0
+4. Visual Studio Code
+5. PyCharm
+
+## Verification
+Software installation and verification on Windows 11.
+
+## Result
+The development environment is being prepared for AI and Machine Learning practical tasks.

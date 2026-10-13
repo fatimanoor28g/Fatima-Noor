@@ -1,0 +1,17 @@
+TASK 2: LINUX SHELL COMMANDS
+
+Objective:
+To learn and practice basic Linux shell commands.
+
+Commands Covered:
+1. Navigation: pwd, cd, ls
+2. File Reading: cat, more, less, head
+3. File and Directory Management: mkdir, rm, rmdir, cp, mv, touch
+4. Help and Information: man, file
+5. Shell and Permissions: bash, sh, chmod, alias
+6. Process Management: ps, kill
+7. System and Package Management: sudo, shutdown, restart, dpkg
+8. Redirection
+
+Result:
+Basic Linux shell commands will be practiced to understand navigation, file management, permissions, and process management.
