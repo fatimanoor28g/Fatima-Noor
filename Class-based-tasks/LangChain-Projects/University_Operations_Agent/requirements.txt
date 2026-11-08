@@ -1,6 +1,0 @@
-langchain
-langchain-groq
-langgraph
-python-dotenv
-pydantic
-langsmith
